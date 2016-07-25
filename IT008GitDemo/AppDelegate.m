@@ -16,6 +16,9 @@
     
     NSNumber *ABC;
 
+    
+    int bbb;
+    
 }
 
 @end
