@@ -14,6 +14,9 @@
 
     NSString * str;
 
+    
+    int bbb;
+    
 }
 
 @end
