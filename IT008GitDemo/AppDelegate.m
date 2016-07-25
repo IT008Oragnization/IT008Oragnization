@@ -14,7 +14,7 @@
 
     NSString * str;
 
-    
+    int ccc;
     int bbb;
     
 }
