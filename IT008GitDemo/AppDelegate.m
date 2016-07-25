@@ -10,6 +10,10 @@
 
 @interface AppDelegate (){
     NSInteger _age;
+    int a;
+
+    NSString * str;
+
 }
 
 @end
