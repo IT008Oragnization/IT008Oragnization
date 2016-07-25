@@ -9,7 +9,11 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate (){
-    int aaaa;
+
+    NSString * tt;
+    
+    NSString * aa;
+
 }
 
 @end
