@@ -9,16 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate (){
-    NSInteger _age;
-    int a;
-
-    NSString * str;
-    
-    NSNumber *ABC;
-
-    int ccc;
-    int bbb;
-    NSString *lll;
+   
 }
 
 @end
