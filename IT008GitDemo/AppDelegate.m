@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate (){
-   
+    int aaaa;
 }
 
 @end
