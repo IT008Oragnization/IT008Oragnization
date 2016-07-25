@@ -10,6 +10,7 @@
 
 @interface AppDelegate (){
     NSInteger _age;
+    int a;
 }
 
 @end
