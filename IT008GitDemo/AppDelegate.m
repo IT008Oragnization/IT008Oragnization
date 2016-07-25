@@ -13,6 +13,8 @@
     int a;
 
     NSString * str;
+    
+    NSNumber *ABC;
 
 }
 
