@@ -9,11 +9,15 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate (){
+<<<<<<< HEAD
 
     NSString * tt;
     
     NSString * aa;
 
+=======
+    NSString * tt;
+>>>>>>> master
 }
 
 @end
